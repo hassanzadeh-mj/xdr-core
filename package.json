@@ -1,6 +1,6 @@
 {
   "name": "xdr-core",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Shared utilities, hooks and extensions for React TS / React Vite TS projects",
   "type": "module",
   "main": "./dist/index.cjs",
